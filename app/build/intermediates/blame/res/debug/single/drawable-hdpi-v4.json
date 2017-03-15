@@ -1,0 +1,410 @@
+[
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\community_default_user_icon.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\community_default_user_icon.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\comm_share.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\comm_share.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_home_press.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\main_home_press.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\up.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\up.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_arrow_right.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\home_arrow_right.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_false.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\button_false.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_user.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\main_user.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\goods_add_btn.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\goods_add_btn.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_btn.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\top_btn.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_arrow_left_new.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\home_arrow_left_new.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_bar_left_back.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\top_bar_left_back.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_order_status_help.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\new_order_status_help.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_img_loading_2.jpg",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\new_img_loading_2.jpg"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_message_icon.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\new_message_icon.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_cyc.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\menu_cyc.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_more.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\icon_more.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_search_white.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\icon_search_white.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_community.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\main_community.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg1.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\bg1.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_img_loading_1.jpg",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\new_img_loading_1.jpg"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_order_status_shouhuo.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\new_order_status_shouhuo.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_user_press.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\main_user_press.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_bar_right_home_btn.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\top_bar_right_home_btn.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_callserver_unpressed.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\icon_callserver_unpressed.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_cart.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\main_cart.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_search_icon.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\home_search_icon.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\community_tab_subscript.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\community_tab_subscript.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\atguigu_logo.jpg",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\atguigu_logo.jpg"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_type_press.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\main_type_press.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\good_uncollected.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\good_uncollected.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_arrow_left_hot.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\home_arrow_left_hot.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_home.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\main_home.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_order_status_fukuan.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\new_order_status_fukuan.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\community_comment_icon.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\community_comment_icon.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_price_sort_normal.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\new_price_sort_normal.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg2.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\bg2.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_arrow_left_flash.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\home_arrow_left_flash.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_user_icon.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\new_user_icon.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\detail.jpg",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\detail.jpg"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\community_user_name_bg.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\community_user_name_bg.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_true.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\button_true.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_good_detail_cart.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\icon_good_detail_cart.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_cart_press.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\main_cart_press.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_community_press.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\main_community_press.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\community_like_icon.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\community_like_icon.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\goods_sub_btn.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\goods_sub_btn.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_type.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\main_type.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\community_mid_line.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\community_mid_line.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_bottom_parent_bg.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\home_bottom_parent_bg.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_user_icon_background.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-hdpi-v4\\new_user_icon_background.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    }
+]

@@ -1,0 +1,7 @@
+#Wed Mar 15 19:00:38 CST 2017
+base.0=D\:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0681f522682ca1d28469c6899f28997681b90cec
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_da567f1c7636f66802067ef5282164e96e56a9a6\\classes.dex
+base.1=D\:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_da567f1c7636f66802067ef5282164e96e56a9a6
+file.0=D\:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0681f522682ca1d28469c6899f28997681b90cec\\classes.dex

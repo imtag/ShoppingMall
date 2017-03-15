@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_order_status_finish.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-xxhdpi\\icon_order_status_finish.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\new_black_background_btn.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-xxhdpi\\new_black_background_btn.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\new_red_background_btn.9.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-xxhdpi\\new_red_background_btn.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\filter_type_selected.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\app\\src\\main\\res\\drawable-xxhdpi\\filter_type_selected.png"
+    }
+]

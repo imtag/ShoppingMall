@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\exploded-aar\com.zhy\magic-viewpager\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ccbd203752f184cc773e7cfec913e6ba2681c792">
+        <dex dex="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.zhy-magic-viewpager-1.0.1_bd2bd61a16e5888861f49d0972de29503903b9ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Cache\.gradle\caches\modules-2\files-2.1\io.github.openfeign\feign-core\9.4.0\6d7727ae005e6c56facc5f425d377732a9ba7b16\feign-core-9.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6d7727ae005e6c56facc5f425d377732a9ba7b16">
+        <dex dex="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\feign-core-9.4.0_1d66bf7667fed8e4bc2f76afa7532dfd1bfd9e20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_69d2ee22fd2b23ca98f760e4269de8606690d8e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton-butterknife-8.4.0_274187973aee846f3caded76bfbdfa514694fbc4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_924541e591098debe510334d15e9466077811494\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Cache\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.4.0_5911a25a33574d20ff6454a146f15d47828cd076\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_ad006f44e2577f9710817ad28351f1920df584b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Cache\.gradle\caches\modules-2\files-2.1\org.jvnet\animal-sniffer-annotation\1.0\67da8e0d8a8ef79c461a489f9f7bb3e86e23ccae\animal-sniffer-annotation-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67da8e0d8a8ef79c461a489f9f7bb3e86e23ccae">
+        <dex dex="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\animal-sniffer-annotation-1.0_d1d67bcc5b51adb0deb1ac823e550c550cb87977\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b5da06740f349672e9c9aae3acc9378ae4c9b288">
+        <dex dex="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_da567f1c7636f66802067ef5282164e96e56a9a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Cache\.gradle\caches\modules-2\files-2.1\com.alibaba\fastjson\1.2.21\4dc148b3edc0d58c1bdb9e4835c187c488986e05\fastjson-1.2.21.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4dc148b3edc0d58c1bdb9e4835c187c488986e05">
+        <dex dex="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\fastjson-1.2.21_22bac522654aad43be624f8db2a745220699dc64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_672ccb0a17acc295a2341ee6718cc1a71799c798\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\InstallProgramme\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_11ce757532b68ac015c91abda4e0d99a7c917255\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_5a36647aac78cc57c0d63b80efb946acca23b606\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_1b1d9a9bff03f930480d45f572ed92bfb1a51190\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Cache\.gradle\caches\modules-2\files-2.1\io.github.openfeign\feign-gson\9.4.0\37c076e1e43660c135350117e352f930d3aad95b\feign-gson-9.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="37c076e1e43660c135350117e352f930d3aad95b">
+        <dex dex="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\feign-gson-9.4.0_dc8d3197df2edb60b5c23b237dbf31249cb1e6fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\exploded-aar\com.zhy\okhttputils\2.6.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="155fef2600f48631a9e9665c0873743b6d24e324">
+        <dex dex="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.zhy-okhttputils-2.6.2_13ae17e2c4868c68cf441ac81b5d38b97581dc70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.0_8c7e92364571fece0bfab9e84bddd48ccfd839bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Cache\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.5\686c608d1805b6d4d425ec4459e88164ffc85870\gson-2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.5_3522599a6aa1aa8c072f82a78e2807a01c2f0816\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_a08289bd8506aab48ad1e15975ef26be5703e6e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_a5792225e258f79ae5897e6749da71899f8e1601\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\exploded-aar\com.youth.banner\banner\1.3.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5624a0cf307cc66333815add1fc4f907f73fa04d">
+        <dex dex="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.youth.banner-banner-1.3.3_64ea0b36dc3142998921defe573fa00f7d04751e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Cache\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_31a26da3b90f090e3b89e8500af46878ab8f3210\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6dabe64d66bfaff09f9c14975c9ac87bb24fa84e">
+        <dex dex="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0681f522682ca1d28469c6899f28997681b90cec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Cache\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_f643d6acab723966194e463fe20fe996727ae252\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_3d214f44fb720b97473c0ba9ad66df6044266249\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_f50501281a9c1daead31ee57f836f03a084b785b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_2730f5b14430d63262a040e3d706414f4da49fb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_63db637c62c1428256ca466d88190707e7fe2fa6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_25e24a1c9988c83cadc67889123effc0900a61fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_bbb5a55cfeba405f30c03d1b73997725ca257cf2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Cache\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.1\19047bdb6a4fc00a44124f64ca98e88fc204e7e3\okhttp-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="D:\Workspace\AndroidStudio\ShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.1_ee15c432c26de53f32a1819d0e62370105262f4a\classes.dex" />
+    </item>
+
+</items>

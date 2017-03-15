@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\alipay_demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\msp_icon.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\alipay_demo\\src\\main\\res\\drawable-hdpi\\msp_icon.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\alipay_demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\msp_demo_title.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\alipay_demo\\src\\main\\res\\drawable-hdpi\\msp_demo_title.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\alipay_demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\msp_demo_title_bg.png",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\alipay_demo\\src\\main\\res\\drawable-hdpi\\msp_demo_title_bg.png"
+    }
+]

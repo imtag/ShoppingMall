@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="magic-viewpager-1.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.zhy/magic-viewpager/1.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.zhy/magic-viewpager/1.0.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/Cache/.gradle/caches/modules-2/files-2.1/com.zhy/magic-viewpager/1.0.1/9ab704cd5fa03e15181c428ada09859229845e88/magic-viewpager-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

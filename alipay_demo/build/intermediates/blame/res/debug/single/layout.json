@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\alipay_demo\\build\\intermediates\\res\\merged\\debug\\layout\\pay_external.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\alipay_demo\\src\\main\\res\\layout\\pay_external.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\alipay_demo\\build\\intermediates\\res\\merged\\debug\\layout\\pay_main.xml",
+        "source": "D:\\Workspace\\AndroidStudio\\ShoppingMall\\alipay_demo\\src\\main\\res\\layout\\pay_main.xml"
+    }
+]
